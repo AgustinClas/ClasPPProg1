@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1589805791 source:c:\users\ale\desktop\clasppprog1\parcialprogramacion\parcialprogramacion.c
+	"ParcialProgramacion.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589805764 c:\users\ale\desktop\clasppprog1\parcialprogramacion\parcialprogramacion.h
+
+1589805764 source:c:\users\ale\desktop\clasppprog1\parcialprogramacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ParcialProgramacion.h"
+	"UTN.h"
+
+1589651510 source:c:\users\ale\desktop\clasppprog1\parcialprogramacion\utn.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	<ctype.h>
+	<conio.h>
+
+1589313115 c:\users\ale\desktop\clasppprog1\parcialprogramacion\utn.h
+
